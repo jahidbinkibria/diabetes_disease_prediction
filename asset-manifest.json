@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diabetes_disease_prediction/static/css/main.8fcd3e8b.chunk.css",
+    "main.js": "/diabetes_disease_prediction/static/js/main.83423624.chunk.js",
+    "main.js.map": "/diabetes_disease_prediction/static/js/main.83423624.chunk.js.map",
+    "runtime-main.js": "/diabetes_disease_prediction/static/js/runtime-main.4b9fa54d.js",
+    "runtime-main.js.map": "/diabetes_disease_prediction/static/js/runtime-main.4b9fa54d.js.map",
+    "static/js/2.d85fe244.chunk.js": "/diabetes_disease_prediction/static/js/2.d85fe244.chunk.js",
+    "static/js/2.d85fe244.chunk.js.map": "/diabetes_disease_prediction/static/js/2.d85fe244.chunk.js.map",
+    "index.html": "/diabetes_disease_prediction/index.html",
+    "precache-manifest.be990b90c1255167cf4aab2422e6ccc3.js": "/diabetes_disease_prediction/precache-manifest.be990b90c1255167cf4aab2422e6ccc3.js",
+    "service-worker.js": "/diabetes_disease_prediction/service-worker.js",
+    "static/css/main.8fcd3e8b.chunk.css.map": "/diabetes_disease_prediction/static/css/main.8fcd3e8b.chunk.css.map",
+    "static/js/2.d85fe244.chunk.js.LICENSE.txt": "/diabetes_disease_prediction/static/js/2.d85fe244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b9fa54d.js",
+    "static/js/2.d85fe244.chunk.js",
+    "static/css/main.8fcd3e8b.chunk.css",
+    "static/js/main.83423624.chunk.js"
+  ]
+}
